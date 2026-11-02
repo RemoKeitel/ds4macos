@@ -1,0 +1,5 @@
+* text=auto
+
+# make und Shell vertragen kein CRLF – auch nicht bei core.autocrlf=true
+Makefile text eol=lf
+*.sh text eol=lf

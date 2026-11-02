@@ -3,3 +3,10 @@ export/
 .DS_Store
 Pods
 xcuserdata
+
+# macOS
+._*
+
+# Werkzeuge
+.idea/
+.claude/
